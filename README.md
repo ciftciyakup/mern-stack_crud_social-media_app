@@ -79,7 +79,7 @@ Ana Sayfa:
 <table>
   <tr>
     <td><img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Anasayfa-Slider.PNG" alt="mockup" /></td>
-    <td><img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Anasayfa-Slider-Mobil.PNG" alt="mockups" /></td>
+    <td><img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Anasayfa-Slider-Mobil.PNG" alt="mockups" style="max-height:65px"/></td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/64949957/159116105-15b9425c-1fec-4a52-84ba-cf97eef93891.png" alt="mockup" /></td>
