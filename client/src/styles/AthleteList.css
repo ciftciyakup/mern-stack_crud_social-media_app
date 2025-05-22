@@ -1,0 +1,69 @@
+/* Yazdırma sırasında geçerli olacak stiller */
+@media print {
+  body {
+    -webkit-print-color-adjust: exact; /* Renklerin doğru yazdırılması */
+    font-size: 10px; /* Yazı tipini küçült */
+    margin: 0; /* Sayfa kenar boşluklarını kaldır */
+  }
+
+  /* Tüm butonları gizle */
+  button {
+    display: none !important;
+  }
+
+  /* Tablo başlıklarını düzenle */
+  th {
+    font-size: 10px; /* Başlık yazı tipini küçült */
+    padding: 4px; /* Kenar boşluklarını küçült */
+    border: 1px solid #ddd; /* Kenarlık ekle */
+  }
+
+  /* Tablo hücrelerini düzenle */
+  td {
+    font-size: 9px; /* Hücre yazı tipini küçült */
+    padding: 4px; /* Kenar boşluklarını küçült */
+    border: 1px solid #ddd; /* Kenarlık ekle */
+  }
+
+  /* Sayfa kenar boşluklarını düzenle */
+  @page {
+    margin: 10mm; /* Sayfa kenar boşluklarını küçült */
+  }
+
+  .islemler {
+    display: none !important;
+  }
+}
+
+/* Tabloyu taşmayı önleyecek şekilde duyarlı hale getir */
+.table-container {
+  overflow-x: auto; /* Yatay kaydırma çubuğu ekler */
+  -webkit-overflow-scrolling: touch; /* Mobil cihazlarda kaydırmayı iyileştirir */
+}
+
+th,
+td {
+  white-space: nowrap; /* Hücre içeriğinin taşmasını önler */
+  text-overflow: ellipsis; /* Uzun metinleri keser ve "..." ekler */
+  overflow: hidden; /* Taşan metni gizler */
+  padding: 8px; /* Hücre içi boşluk */
+  border: 1px solid #ddd; /* Hücre kenarlıkları */
+}
+
+th {
+  background-color: #f9f9f9; /* Başlık hücreleri için arka plan rengi */
+  font-weight: bold; /* Başlık yazı tipi kalın */
+  text-align: left; /* Başlık metni sola hizalı */
+}
+
+td {
+  text-align: left; /* Hücre metni sola hizalı */
+}
+
+@media (max-width: 768px) {
+  th,
+  td {
+    font-size: 12px; /* Küçük ekranlarda yazı tipini küçült */
+    padding: 6px; /* Hücre içi boşlukları küçült */
+  }
+}

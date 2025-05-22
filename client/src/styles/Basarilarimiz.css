@@ -1,0 +1,46 @@
+/* Yazdırma sırasında geçerli olacak stiller */
+@media print {
+  body {
+    -webkit-print-color-adjust: exact; /* Renklerin doğru yazdırılması */
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    color: #000;
+  }
+
+  /* Tüm butonları gizle */
+  button,
+  .MuiButton-root {
+    display: none !important;
+  }
+
+  /* Filtreleme alanlarını gizle */
+  form {
+    display: none !important;
+  }
+
+  /* Tablo başlıklarını düzenle */
+  th {
+    background-color: #f2f2f2;
+    color: #000;
+    font-weight: bold;
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+
+  /* Tablo hücrelerini düzenle */
+  td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+
+  /* Sayfa kenar boşluklarını düzenle */
+  @page {
+    margin: 20mm;
+  }
+
+  .islemler {
+    display: none !important;
+  }
+}
