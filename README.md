@@ -76,7 +76,7 @@ Kocaeli Judo Kulübü için geliştirilmiş, **MongoDB, Express.js, React.js, Ta
 <table>
   <tr>
     <td><img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Anasayfa-Slider.PNG" alt="mockup" /></td>
-    <td><img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Anasayfa-Slider-Mobil.PNG" alt="mockups" style="height:285px"/></td>
+    <td><img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Anasayfa-Slider-Mobil.PNG" alt="mockups"/></td>
   </tr>
 </table>
 
