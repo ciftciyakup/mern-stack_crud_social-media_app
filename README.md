@@ -71,12 +71,204 @@ Kocaeli Judo Kulübü için geliştirilmiş, **MongoDB, Express.js, React.js, Ta
 
 ---
 
-## Ekran Görüntüleri
+## 📸 Proje Ekran Görüntüleri
 
+### Anasayfa Slider
 <table>
   <tr>
-    <td><img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Anasayfa-Slider.PNG" alt="mockup" /></td>
-    <td><img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Anasayfa-Slider-Mobil.PNG" alt="mockups"/></td>
+    <td align="center">
+      <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Anasayfa-Slider.PNG" alt="Anasayfa Slider Desktop" height="400"/>
+      <br><em>Desktop</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Anasayfa-Slider-Mobil.PNG" alt="Anasayfa Slider Mobil" height="400"/>
+      <br><em>Mobil</em>
+    </td>
+  </tr>
+</table>
+
+### Anasayfa Haberler
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Anasayfa-Haberler.PNG" alt="Anasayfa Haberler Desktop" height="400"/>
+      <br><em>Desktop</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Anasayfa-Haberler-Mobil.PNG" alt="Anasayfa Haberler Mobil" height="400"/>
+      <br><em>Mobil</em>
+    </td>
+  </tr>
+</table>
+</table>
+
+### Anasayfa Tarihçe
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Anasayfa-Tarihce-TR.PNG" alt="Anasayfa Tarihçe Türkçe" height="400"/>
+      <br><em>Türkçe</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Anasayfa-Tarihce-Mobil.PNG" alt="Anasayfa Tarihçe Mobil" height="400"/>
+      <br><em>Mobil</em>
+    </td>
+  </tr>
+    <tr>
+    <td align="center">
+      <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Anasayfa-Tarihce-EN.PNG" alt="Homepage History English" height="400"/>
+      <br><em>English</em>
+    </td>
+  </tr>
+</table>
+
+### Anasayfa Ayın Sporcuları
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Anasayfa-AyinSporculari-TR.jpg" alt="Anasayfa Ayın Sporcuları Türkçe" height="400"/>
+      <br><em>Türkçe</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Anasayfa-AyinSporculari-Mobil.jpg" alt="Anasayfa Ayın Sporcuları Mobil" height="400"/>
+      <br><em>Mobil</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Anasayfa-AyinSporculari-EN.jpg" alt="Anasayfa Ayın Sporcuları English" height="400"/>
+      <br><em>Desktop</em>
+    </td>
+  </tr>
+</table>
+
+### Anasayfa Sayılarla Kocaeli Judo
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Anasayfa-Sayilar-TR.jpg" alt="Anasayfa Sayılarla Kocaeli Judo Türkçe" height="400"/>
+      <br><em>Türkçe</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Anasayfa-Sayilar-Mobil.jpg" alt="Anasayfa Sayılarla Kocaeli Judo Mobil" height="400"/>
+      <br><em>Mobil</em>
+    </td>
+  </tr>
+    <tr>
+    <td align="center">
+      <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Anasayfa-Sayilar-EN.jpg" alt="Homepage Numbers with Kocaeli Judo English" height="400"/>
+      <br><em>English</em>
+    </td>
+  </tr>
+</table>
+
+### Anasayfa Footer
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Anasayfa-Footer-TR.jpg" alt="Anasayfa Footer Türkçe" height="400"/>
+      <br><em>Türkçe</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Anasayfa-Footer-Mobil.jpg" alt="Anasayfa Footer Mobil" height="400"/>
+      <br><em>Mobil</em>
+    </td>
+  </tr>
+    <tr>
+    <td align="center">
+      <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Anasayfa-Footer-EN.jpg" alt="Homepage Footer English" height="400"/>
+      <br><em>English</em>
+    </td>
+  </tr>
+</table>
+
+### Sosyal Anasayfa
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Sosyal-Anasayfa.jpg" alt="Sosyal Anasayfa Desktop" height="400"/>
+      <br><em>Desktop</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Sosyal-Anasayfa-Mobil.jpg" alt="Sosyal Anasayfa Mobil" height="400"/>
+      <br><em>Mobil</em>
+    </td>
+  </tr>
+    <tr>
+    <td align="center">
+      <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Sosyal-Anasayfa-Mobil-2.jpg" alt="Sosyal Anasayfa Mobil 2" height="400"/>
+      <br><em>Mobil</em>
+    </td>
+  </tr>
+</table>
+
+### Sosyal Yeni Gönderi
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Sosyal-YeniGonderi.jpg" alt="Sosyal Yeni Gönderi Desktop" height="400"/>
+      <br><em>Desktop</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Sosyal-YeniGonderi-Mobil.jpg" alt="Sosyal Yeni Gönderi Mobil" height="400"/>
+      <br><em>Mobil</em>
+    </td>
+  </tr>
+    <tr>
+    <td align="center">
+      <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Sosyal-YeniGonderi-Onizleme.jpg" alt="Sosyal Yeni Gönderi Önizleme Desktop" height="400"/>
+      <br><em>Desktop</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Sosyal-YeniGonderi-Onizleme-Mobil.jpg" alt="Sosyal Yeni Gönderi Önizleme Mobil" height="400"/>
+      <br><em>Mobil</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Sosyal-YeniGonderi-Emoji.jpg" alt="Sosyal Yeni Gönderi Emojiler Desktop" height="400"/>
+      <br><em>Emojiler</em>
+    </td>
+  </tr>
+</table>
+
+### Sosyal Mesajlaşma
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Sosyal-Mesajlar.jpg" alt="Sosyal Mesajlaşma Desktop" height="400"/>
+      <br><em>Desktop</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Sosyal-Mesajlar-Mobil.jpg" alt="Sosyal Mesajlaşma Mobil" height="400"/>
+      <br><em>Mobil</em>
+    </td>
+  </tr>
+    <tr>
+    <td align="center">
+      <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Sosyal-MesajGonder.jpg" alt="Sosyal Mesaj Gönder Desktop" height="400"/>
+      <br><em>Desktop</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Sosyal-MesajGonder-Mobil.jpg" alt="Sosyal Mesaj Gönder Önizleme Mobil" height="400"/>
+      <br><em>Mobil</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Sosyal-Mesaj.jpg" alt="Sosyal Mesaj Desktop" height="400"/>
+      <br><em>Desktop</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Sosyal-Mesaj-Mobil.jpg" alt="Sosyal Mesaj Mobil" height="400"/>
+      <br><em>Mobil</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Sosyal-Mesaj-Mobil-2.jpg" alt="Sosyal Mesaj Mobil 2" height="400"/>
+      <br><em>Mobil</em>
+    </td>
   </tr>
 </table>
 
@@ -86,19 +278,20 @@ Kocaeli Judo Kulübü için geliştirilmiş, **MongoDB, Express.js, React.js, Ta
 
 1. **Projeyi klonlayın:**
 
-   ````bash
+   ```bash
    git clone https://github.com/kullanici-adi/kocaeli-judo-social.git
    cd kocaeli-judo-social
+   ```
 
-     2. **Sunucu ve istemci bağımlılıklarını yükleyin:**
-     ```bash
-     cd server
-     npm install
-     cd ../client
-     npm install
-   ````
+2. **Sunucu ve istemci bağımlılıklarını yükleyin:**
+   ```bash
+   cd server
+   npm install
+   cd ../client
+   npm install
+   ```
 
-2. **Gerekli ortam değişkenlerini ayarlayın ve MongoDB bağlantınızı yapılandırın.**
+3. **Gerekli ortam değişkenlerini ayarlayın ve MongoDB bağlantınızı yapılandırın.**
 
    - `.env` dosyalarını hem `server` hem de `client` klasörlerinde oluşturun.
    - Örnek `.env` içeriği:
@@ -107,7 +300,7 @@ Kocaeli Judo Kulübü için geliştirilmiş, **MongoDB, Express.js, React.js, Ta
      JWT_SECRET=your_jwt_secret
      ```
 
-3. **Projeyi başlatın:**
+4. **Projeyi başlatın:**
 
    ```bash
    # Sunucu için
