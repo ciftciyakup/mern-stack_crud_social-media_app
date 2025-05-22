@@ -279,7 +279,7 @@ Kocaeli Judo Kulübü için geliştirilmiş, **MongoDB, Express.js, React.js, Ta
 1. **Projeyi klonlayın:**
 
    ```bash
-   git clone https://github.com/kullanici-adi/kocaeli-judo-social.git
+   git clone https://github.com/ciftciyakup/mern-stack_crud_social-media_app.git
    cd kocaeli-judo-social
    ```
 
@@ -293,7 +293,7 @@ Kocaeli Judo Kulübü için geliştirilmiş, **MongoDB, Express.js, React.js, Ta
 
 3. **Gerekli ortam değişkenlerini ayarlayın ve MongoDB bağlantınızı yapılandırın.**
 
-   - `.env` dosyalarını hem `server` hem de `client` klasörlerinde oluşturun.
+   - `.env` dosyalarını hem `server` klasörleründe oluşturun.
    - Örnek `.env` içeriği:
      ```
      MONGO_URI=your_mongodb_connection_string
