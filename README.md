@@ -272,6 +272,86 @@ Kocaeli Judo Kulübü için geliştirilmiş, **MongoDB, Express.js, React.js, Ta
   </tr>
 </table>
 
+### Giriş & Kayıt Ekranları
+<table> <tr> <td align="center"> <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/GirisYap-TR.jpg" alt="Giriş Yap Türkçe" height="400"/> <br><em>Türkçe</em> </td> <td align="center"> <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/GirisYap-Mobil.jpg" alt="Giriş Yap Mobil" height="400"/> <br><em>Mobil</em> </td> </tr> <tr> <td align="center"> <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/GirisYap-EN.jpg" alt="Giriş Yap English" height="400"/> <br><em>English</em> </td> <td align="center"> <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/KayitOl-Mobil.jpg" alt="Kayıt Ol Mobil" height="400"/> <br><em>Mobil</em> </td> </tr> <tr> <td align="center"> <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/KayitOl.jpg" alt="Kayıt Ol Desktop" height="400"/> <br><em>Desktop</em> </td> </tr> </table>
+
+### Şifre İşlemleri
+<table> <tr> <td align="center"> <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/SifremiUnuttum.jpg" alt="Şifremi Unuttum Desktop" height="400"/> <br><em>Desktop</em> </td> <td align="center"> <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/SifremiUnuttum-Mobil.jpg" alt="Şifremi Unuttum Mobil" height="400"/> <br><em>Mobil</em> </td> </tr> <tr> <td align="center"> <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/ParolaSifirla.jpg" alt="Parola Sıfırla Desktop" height="400"/> <br><em>Desktop</em> </td> <td align="center"> <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/ParolaSifirla-Mobil.jpg" alt="Parola Sıfırla Mobil" height="400"/> <br><em>Mobil</em> </td> </tr> </table>
+
+### Antrenör Profili
+<table> <tr> <td align="center"> <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Antrenor.jpg" alt="Antrenör Desktop" height="400"/> <br><em>Desktop</em> </td> <td align="center"> <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Antrenor-Mobil.jpg" alt="Antrenör Mobil" height="400"/> <br><em>Mobil</em> </td> </tr> </table>
+
+### Başarılarımız Modülü
+<table>
+  <tr>
+    <td align="center">
+      <img
+        src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Basarilarimiz.jpg"
+        alt="Başarılarımız Desktop"
+        height="400"
+      />
+      <br /><em>Desktop</em>
+    </td>
+    <td align="center">
+      <img
+        src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Basarilarimiz-Mobil.jpg"
+        alt="Başarılarımız Mobil"
+        height="400"
+      />
+      <br /><em>Mobil</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img
+        src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Basarilarimiz-Admin.jpg"
+        alt="Başarılarımız Admin Panel"
+        height="400"
+      />
+      <br /><em>Admin</em>
+    </td>
+    <td align="center">
+      <img
+        src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Basarilarimiz-Mobil-2.jpg"
+        alt="Başarılarımız Mobil 2"
+        height="400"
+      />
+      <br /><em>Mobil</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img
+        src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Basarilarimiz-Ekle-Admin.jpg"
+        alt="Başarı Ekle Admin"
+        height="400"
+      />
+      <br /><em>Admin</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img
+        src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Basarilarimiz-Sil-Admin.jpg"
+        alt="Başarı Sil Admin"
+        height="400"
+      />
+      <br /><em>Admin</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img
+        src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Basarilarimiz-Yazdir.jpg"
+        alt="Başarı Yazdır Admin"
+        height="400"
+      />
+      <br /><em>Yazdır</em>
+    </td>
+  </tr>
+</table>
+
+
 ---
 
 ## Kurulum
