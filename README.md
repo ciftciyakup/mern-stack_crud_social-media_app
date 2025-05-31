@@ -399,6 +399,7 @@ Kocaeli Judo Kulübü için geliştirilmiş, **MongoDB, Express.js, React.js, Ta
 Her türlü soru ve iş birliği için bana ulaşabilirsiniz:
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yakup-ciftci)
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ciftciyakup)
 
 ---
 
