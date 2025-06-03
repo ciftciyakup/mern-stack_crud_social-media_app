@@ -199,6 +199,10 @@ Kocaeli Judo Kulübü için geliştirilmiş, **MongoDB, Express.js, React.js, Ta
       <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Sosyal-Anasayfa-Mobil-2.jpg" alt="Sosyal Anasayfa Mobil 2" height="340"/>
       <br><em>Mobil</em>
     </td>
+    <td align="center">
+      <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/Sosyal-Anasayfa-Mobil-3.jpg" alt="Sosyal Anasayfa Mobil 2" height="340"/>
+      <br><em>Mobil</em>
+    </td>
   </tr>
 </table>
 
