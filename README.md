@@ -275,6 +275,7 @@ Kocaeli Judo Kulübü için geliştirilmiş, **MongoDB, Express.js, React.js, Ta
     </td>
   </tr>
 </table>
+Diğer tüm proje görsellerine project-images klasöründen bakabilirsiniz
 
 ### Giriş & Kayıt Ekranları
 <table> <tr> <td align="center"> <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/GirisYap-TR.jpg" alt="Giriş Yap Türkçe" height="340"/> <br><em>Türkçe</em> </td> <td align="center"> <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/GirisYap-Mobil.jpg" alt="Giriş Yap Mobil" height="340"/> <br><em>Mobil</em> </td> </tr> <tr> <td align="center"> <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/GirisYap-EN.jpg" alt="Giriş Yap English" height="340"/> <br><em>English</em> </td> <td align="center"> <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/KayitOl-Mobil.jpg" alt="Kayıt Ol Mobil" height="340"/> <br><em>Mobil</em> </td> </tr> <tr> <td align="center"> <img src="https://github.com/ciftciyakup/mern-stack_crud_social-media_app/blob/main/project-images/KayitOl.jpg" alt="Kayıt Ol Desktop" height="340"/> <br><em>Desktop</em> </td> </tr> </table>
